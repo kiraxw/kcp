@@ -15,7 +15,7 @@ $ tree
 * 安装命令：
 
 ```sh
-wget --no-check-certificate -O kcptun.sh https://github.com/kuoruan/shell-scripts/raw/master/kcptun/kcptun.sh
+wget --no-check-certificate -O kcptun.sh https://github.com/kiraxw/kcp/raw/master/kcptun/kcptun.sh
 sh kcptun.sh
 ```
 
